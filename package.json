@@ -5,12 +5,12 @@
   "main": "index.js",
   "dependencies": {
     "busyman": "^0.3.0",
-    "coap": "^0.17.0",
+    "coap": "^0.21.0",
     "debug": "^2.2.0",
     "lwm2m-codec": "0.0.8",
     "lwm2m-id": "^1.6.1",
     "network": "^0.2.1",
-    "smartobject": "^1.4.3"
+    "smartobject": "^1.4.4"
   },
   "devDependencies": {
     "chai": "^3.5.0",
